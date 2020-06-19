@@ -1,2 +1,3 @@
 tpc.googlesyndication.com
 googleads.g.doubleclick.net
+https://adclick.g.doubleclick.net
