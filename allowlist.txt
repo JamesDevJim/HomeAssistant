@@ -2,3 +2,5 @@ wx.ikitesurf.com
 wx.ikitesurf.com/map#,,,1
 mouseflow.com
 app.mouseflow.com
+us.i.posthog.com
+us-assets.i.posthog.com
